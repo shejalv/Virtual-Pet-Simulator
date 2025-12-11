@@ -1,6 +1,7 @@
 Virtual Pet Simulator 🐾
 
-![Uploading Screenshot 2025-12-11 123906.png…]()
+<img width="1914" height="862" alt="Screenshot 2025-12-11 123906" src="https://github.com/user-attachments/assets/8ebc9cff-31dd-4b2b-bed2-e121cc90ba6f" />
+
 
 
 A simple and interactive Virtual Pet Simulator built using HTML, CSS, and JavaScript.
